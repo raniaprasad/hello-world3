@@ -4,4 +4,7 @@ this is a basic program written in c language
 void main()
 {
   printf("hello world3");
-  }
+}
+{
+  printf("\nThis is a new language");
+}
